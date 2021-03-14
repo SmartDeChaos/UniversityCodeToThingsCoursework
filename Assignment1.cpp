@@ -138,5 +138,9 @@ int main()
     
     NumOp* numop = new NumOp(flag, k);
     numop->Change(inte, frac);//调用转换函数
+
+cout<<"Wow this code is so  cooooolll,it relly surprise me."<<endl;
+    
 }
+
 
